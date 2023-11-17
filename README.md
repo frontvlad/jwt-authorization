@@ -1,2 +1,2 @@
-# jwt-auth
+# JWT авторизация на React / MobX
  
